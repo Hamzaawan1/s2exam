@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.container .recipes div {
+  border-bottom: 2px solid black;
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=style.css.map */
